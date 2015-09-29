@@ -1,0 +1,11 @@
+body { font-family: Arial; font-size: 12px; }
+
+
+.chart-area .chart-bar { background-repeat: repeat; }
+.chart-area .chart-bar.north       { background-color: none; background-image: url(./images/ie_transparency.png); }
+.chart-area .chart-bar.east        { background-color: none; background-image: url(./images/ie_transparency.png); }
+.chart-area .chart-bar.south       { background-color: none; background-image: url(./images/ie_transparency.png); }
+.chart-area .chart-bar.west        { background-color: none; background-image: url(./images/ie_transparency.png); }
+.chart-area .chart-bar.mmumc       { background-color: none; background-image: url(./images/ie_transparency.png); }
+
+
